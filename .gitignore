@@ -1,0 +1,36 @@
+# 环境变量文件（包含敏感信息，绝不上传）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 虚拟环境
+.venv/
+venv/
+ENV/
+
+# IDE 配置
+.vscode/
+.idea/
+.claude/
+.codebuddy/
+
+# 其他项目
+q-sort-app/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp

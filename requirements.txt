@@ -1,0 +1,5 @@
+# AI Agent 课程作业依赖
+# 安装方法：pip install -r requirements.txt
+
+openai>=1.0.0
+python-dotenv>=1.0.0
