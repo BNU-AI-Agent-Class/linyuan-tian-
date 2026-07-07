@@ -142,7 +142,3 @@ python s5_skill.py
 ## 作者
 
 北师大心理学部 AI Agent 课程作业
-
-## 许可证
-
-MIT License
