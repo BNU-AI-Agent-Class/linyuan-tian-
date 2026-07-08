@@ -1,0 +1,6 @@
+# 不要提交这些文件到 GitHub
+.env
+__pycache__/
+*.pyc
+.vscode/
+.idea/
